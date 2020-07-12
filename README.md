@@ -2,4 +2,4 @@
 
 <h1>Jose Ivan Ribeiro de Oliveira</h1>
 
-![Twitter URL](https://img.shields.io/twitter/url?url=%40estrongbelgier)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-ivan-ribeiro-de-oliveira-27596552/)](https://www.linkedin.com/in/jose-ivan-ribeiro-de-oliveira-27596552/)
