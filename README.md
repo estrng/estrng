@@ -8,6 +8,6 @@
 
 ![Snake animation](https://github.com/Estrongbelgier/Estrongbelgier/blob/output/github-contribution-grid-snake.svg)
 
-[estrongbelgier.com](https://www.estrongbelgier.com)
+[estrongbelgier.com](https://www.estrng.com)
 
 ### "Victory, however long and hard the road may be!" Sir Winston Churchill.
