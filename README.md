@@ -1,4 +1,4 @@
-### Be welcame 👋
+### Be welcome 👋
 
 <h1>José Ivan R. de Oliveira</h1>
 
