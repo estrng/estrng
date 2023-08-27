@@ -2,7 +2,7 @@
 
 <h1>José Ivan R. de Oliveira</h1>
 
-- 🚀 ReactJS/Native/NodeJS Analyst and developer
+- 🚀 JavaScript Developer
 - 📬 Professional contact: <a href="mailto:estrongbelgier@outlook.com?Subject=Hello%20estrng%20I%20came%20from%20your%20github." target="_blank"> estrongbelgier@outlook.com</a>
 - 📩 Personal contact: <a href="mailto:ivan_r.o@hotmail.com?Subject=Hello%20estrng%20I%20came%20from%20your%20github." target="_blank"> ivan_r.o@hotmail.com</a>
 - 😀 Pronouns: He/his
