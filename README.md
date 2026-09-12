@@ -12,7 +12,6 @@
 
   <br/>
 
-  <!-- Tech Stack em Destaque Minimalista -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nest,python,docker,kubernetes,terraform,jest,graphql,postgres,git&theme=dark" />
   </a>
@@ -21,7 +20,7 @@
 
 <br/>
 
-## 🇺🇸 English
+## 🇺🇸
 
 I am a Full-Stack Software Engineer with **over 5 years of experience** engineering high-consequence systems across the retail and supply chain sectors. My expertise lies in crafting resilient, scalable applications using **TypeScript, Node.js, and React**, anchored by a deep commitment to **Clean Architecture** and **SOLID** principles.
 
@@ -33,7 +32,7 @@ Outside of the IDE, I bring the same technical precision and focus to gaming. Wi
 
 <br/>
 
-## 🇧🇷 Português
+## 🇧🇷
 
 Sou um Engenheiro de Software Full-Stack com **mais de 5 anos de experiência** na construção de sistemas de alta complexidade para os setores de varejo e logística. Minha especialidade é criar aplicações escaláveis e resilientes usando **TypeScript, Node.js e React**, sempre guiado pelos princípios de **Clean Architecture** e **SOLID**.
 
@@ -47,11 +46,23 @@ Fora das IDEs, levo a mesma precisão técnica e foco para os jogos. Com **mais 
 
 ---
 
-<!-- Redes Sociais no Rodapé -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/estrongbelgier/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@dev.estrng"><img src="https://img.shields.io/badge/YouTube_Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/estrng"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@estrng_"><img src="https://img.shields.io/badge/YouTube_Gamer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://livepix.gg/estrng"><img src="https://img.shields.io/badge/LivePix-Suporte_o_Canal-00E5FF?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/estrongbelgier/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/estrng" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitch/9146FF" width="30" alt="Twitch" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@dev.estrng" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" alt="YouTube Dev" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/estrng_" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X / Twitter" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/estrongbelgier" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://livepix.gg/estrng" target="_blank">
+    <img src="https://cdn.simpleicons.org/pix/32BCAD" width="30" alt="LivePix" />
+  </a>
 </div>
